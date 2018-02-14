@@ -8,4 +8,8 @@ Notefy works by applying pre-made, customizable rules in an specific order in th
 
 1) Title Rule --> This rule changes how the main title is presented
 2) Header Rule --> This rule adds a header, with date and time stamps and some basic information
-3) 
+
+# WIP Rules
+
+3) Description Rule --> This rule will change how descriptions are presented
+4) List Rule --> This rule will change how lists are presented and possibly allow for some customizable options (show size of list, etc.)
